@@ -119,7 +119,7 @@ We categorize RNA–small molecule modeling into three core tasks:
 ---
 
 
-# 📊 Dataset Analysis (Core Contribution)
+# 📊 Dataset Analysis
 
 ## ⚠️ Existing Problems
 
