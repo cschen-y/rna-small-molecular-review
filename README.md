@@ -1,4 +1,4 @@
-# Machine Learning for RNA–Small Molecule Interactions
+# Machine Learning for RNA–Small Molecule Interactions: Methodologies, Evaluation, and Future Direction
 
 📄 **Paper**: *Machine Learning for RNA–Small Molecule Interactions: Methodologies, Evaluation, and Future Directions*
 
